@@ -1,6 +1,7 @@
-# Blue-Render-Desk 
+# Blue Render Desk 
 
-Plugins written with Python and Max Script automatically upload the scene to be rendered to the render farm, thanks to Blue Render Desk, after exporting it. Blue Render Desk finds your file to be rendered, finds the texture and similar files you used in the file and sends it to the render farm. All files are zipped to reduce the size of the file. Blue render desk receives the data from the render farm in real time and shows it to you. and it works in real time. After you log in, the desk automatically makes things easier with its auto login feature. You can see render jobs and uploaded files as a list in the render desk. It receives data from the gRPC service via API and runs.
+Plugins written with Python and Max Script automatically upload the scene to be rendered to the render farm, thanks to Blue Render Desk, after exporting it. Blue Render Desk finds your file to be rendered, finds the texture and similar files you used in the file and sends it to the render farm. All files are zipped to reduce the size of the file. Blue render desk receives the data from the render farm in real time and shows it to you. and it works in real time. After you log in, the desk automatically makes things easier with its auto login feature. You can see render jobs and uploaded files as a list in the render desk. It receives data from the gRPC service via API and runs. 
+You can download from the link here: https://bluerenderfarm.com/Software
 
 # DevExpress Compunents 
 The components used are Devexpress components and are of very high quality. These types of components are the ones chosen by large companies.
